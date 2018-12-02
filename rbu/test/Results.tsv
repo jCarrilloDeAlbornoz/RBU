@@ -1,0 +1,69 @@
+#############################################################################
+#				AUTOMATIC EvALL TSV REPORT
+#
+#	We kindly ask you to cite the following work when using EvALL:
+#			An Axiomatic Analysis of Diversity Evaluation Metrics: Introducing the Rank-Biased Utility Metric
+#			Enrique Amigó, Damiano Spina, Jorge Carrillo-de-Albornoz
+#			In proceedings of SIGIR'18
+#
+#	This file contains the results for the output: 
+#			• test/input.uogTrDuax_EvALL
+#
+#	The next table contains the results for each test case in this output. 
+#	Notice that first are shown the test cases present in the gold, and after that those not present. 
+#	Those measures that do not satisfy the preconditions are marked with -.
+#############################################################################
+#The measures included in the table are:
+#		- RBU
+#############################################################################
+"Test Case"	"RBU"
+"270"	"-0,0053"
+"271"	"-0,0300"
+"272"	"-0,0170"
+"273"	"0,0912"
+"274"	"-0,0225"
+"275"	"0,0422"
+"276"	"0,1256"
+"277"	"-0,0201"
+"278"	"0,0045"
+"279"	"0,0598"
+"280"	"0,0416"
+"281"	"0,0087"
+"282"	"0,0949"
+"283"	"0,0533"
+"284"	"0,0528"
+"285"	"0,0359"
+"286"	"0,0812"
+"287"	"0,1252"
+"288"	"0,0645"
+"289"	"0,0160"
+"290"	"0,0395"
+"291"	"0,0340"
+"292"	"0,1200"
+"293"	"0,1062"
+"294"	"0,0192"
+"251"	"0,0985"
+"295"	"0,1139"
+"252"	"0,0518"
+"296"	"0,0985"
+"297"	"0,0812"
+"253"	"0,0513"
+"298"	"0,1334"
+"254"	"0,0687"
+"299"	"0,0243"
+"255"	"-0,0292"
+"256"	"0,0520"
+"257"	"0,0211"
+"258"	"0,0266"
+"259"	"0,0179"
+"260"	"0,0199"
+"261"	"-0,0166"
+"262"	"0,0944"
+"263"	"0,0859"
+"264"	"0,1336"
+"265"	"0,0124"
+"266"	"0,0567"
+"300"	"0,1467"
+"267"	"0,1222"
+"268"	"0,0311"
+"269"	"0,0280"
