@@ -15,9 +15,9 @@ This source is available to evaluate a pair of goldstandard/output, and generate
 
 The input format for both files is described in the EvALL website (http://www.evall.uned.es/#formats), and that it is also described in the DiversificationFormat class.
  
-The package must be invoked with 4 parameter: ValueParameterP ValueParameterE pathGoldStandard pathSystemOutput
+The package must be invoked with four parameters: `ValueParameterP ValueParameterE pathGoldStandard pathSystemOutput`
 
- 		Example: java -jar rbu-0.1.jar 0.8 0.03 test/gold.tsv test/output.tsv
+ 		Example: `java -jar target/rbu-0.1-jar-with-dependencies.jar 0.8 0.03 test/qrels.all_EvALL_FORMAT.txt test/input.uogTrDuax_EvALLi`
 
 		
 ***************************************************************
