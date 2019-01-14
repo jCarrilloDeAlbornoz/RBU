@@ -1,8 +1,8 @@
 # Rank-Biased Utility
 
-This repo will contain the source code of the effectiveness metric Rank-Biased Utility (RBU), as well as the releasable resources and scripts used for the experiments reported in the SIGIR'18 paper.
+This repo contains the source code of the effectiveness metric Rank-Biased Utility (RBU).
 
-Meanwhile, RBU is available as one of the metrics for evaluating diversity tasks in EvALL: http://evall.uned.es
+RBU is also available as one of the metrics for evaluating diversity tasks in EvALL: http://evall.uned.es
 
 
 ## Citation
