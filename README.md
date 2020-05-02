@@ -7,9 +7,9 @@ RBU is also available as one of the metrics for evaluating diversity tasks in Ev
 
 ## Citation
 
-### Bibtex
+### BibTeX
 E. Amigó, D. Spina, J. Carrillo-de-Albornoz. **An Axiomatic Analysis of Diversity Evaluation Metrics: Introducing the Rank-Biased Utility Metric**. In Proceedings of SIGIR'18. 2018.
-```
+```bibtex
 @InProceedings{amigo2018axiomatic,
  author = {Amig{\'o}, Enrique and Spina, Damiano and Carrillo-de-Albornoz, Jorge},
  title = {An Axiomatic Analysis of Diversity Evaluation Metrics: 
